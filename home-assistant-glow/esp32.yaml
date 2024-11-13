@@ -36,8 +36,8 @@ esp32:
 
 packages:
   remote_package:
-    url: https://github.com/klaasnicolaas/home-assistant-glow/
-    ref: "4.2.3"
+    url: https://github.com/JamesSwift/home-assistant-glow/
+    ref: "patch-1"
     files:
       - components/basis.yaml
       - components/updates.yaml
